@@ -1,0 +1,66 @@
+# Oasa
+Oasa,SYSMARKER,5-IH57,30,Blue
+Oasa,SYSMARKER,5-9L3H,30,Blue
+Oasa,SYSMARKER,6U-MFQ,30,Blue
+Oasa,SYSMARKER,91-KD8,30,Blue
+Oasa,SYSMARKER,DGDT-3,30,Blue
+Oasa,SYSMARKER,DYS-CG,30,Blue
+Oasa,SYSMARKER,F-816R,30,Blue
+Oasa,SYSMARKER,FZCR-3,30,Blue
+Oasa,SYSMARKER,G-W1ND,30,Blue
+Oasa,SYSMARKER,ND-X7X,30,Blue
+Oasa,SYSMARKER,QB-AE6,30,Blue
+Oasa,SYSMARKER,QB-AE6,30,Blue
+
+# Malpais
+Malpais,SYSMARKER,V3P-AZ,30,Blue
+Malpais,SYSMARKER,NSI-MW,30,Blue
+Malpais,SYSMARKER,7T-0QS,30,Blue
+Malpais,SYSMARKER,N6NK-J,30,Blue
+Malpais,SYSMARKER,NBW-GD,30,Blue
+Malpais,SYSMARKER,IL-OL1,30,Blue
+Malpais,SYSMARKER,0-TRV1,30,Blue
+Malpais,SYSMARKER,QCGG-Q,30,Blue
+Malpais,SYSMARKER,W-XY4J,30,Blue
+Malpais,SYSMARKER,2XI8-Y,30,Blue
+Malpais,SYSMARKER,QZ1-OH,30,Blue
+Malpais,SYSMARKER,863P-X,30,Blue
+Malpais,SYSMARKER,FO9-FZ,30,Blue
+Malpais,SYSMARKER,XTVZ-E,30,Blue
+Malpais,SYSMARKER,IF-KD1,30,Blue
+Malpais,SYSMARKER,APES-G,30,Blue
+Malpais,SYSMARKER,O7-RFZ,30,Blue
+
+# Etherium Reach
+Etherium Reach,SYSMARKER,2B-UUQ,30,Blue
+Etherium Reach,SYSMARKER,3G-LFX,30,Blue
+Etherium Reach,SYSMARKER,D3S-EA,30,Blue
+Etherium Reach,SYSMARKER,F69O-M,30,Blue
+Etherium Reach,SYSMARKER,F9-FUV,30,Blue
+Etherium Reach,SYSMARKER,PXE-RG,30,Blue
+Etherium Reach,SYSMARKER,RO-0PZ,30,Blue
+Etherium Reach,SYSMARKER,XB-9U2,30,Blue
+Etherium Reach,SYSMARKER,Z-DRIY,30,Blue
+
+# Perrigen Falls
+Perrigen Falls,SYSMARKER,9WVY-F,30,Blue
+Perrigen Falls,SYSMARKER,R-AG7W,30,Blue
+Perrigen Falls,SYSMARKER,M-SG47,30,Blue
+Perrigen Falls,SYSMARKER,01B-88,30,Blue
+Perrigen Falls,SYSMARKER,PE-SAM,30,Blue
+Perrigen Falls,SYSMARKER,7AH-SF,30,Blue
+Perrigen Falls,SYSMARKER,OP7-BP,30,Blue
+Perrigen Falls,SYSMARKER,4F6-VZ,30,Blue
+
+# TKE
+The Kalevala Expanse,SYSMARKER,V2-GZS,30,Blue
+The Kalevala Expanse,SYSMARKER,K76A-3,30,Blue
+The Kalevala Expanse,SYSMARKER,RAI-0E,30,Blue
+The Kalevala Expanse,SYSMARKER,1-KCSA,30,Blue
+The Kalevala Expanse,SYSMARKER,0S1-GI,30,Blue
+The Kalevala Expanse,SYSMARKER,WNM-V0,30,Blue
+The Kalevala Expanse,SYSMARKER,QZX-L9,30,Blue
+The Kalevala Expanse,SYSMARKER,O5-YNW,30,Blue
+The Kalevala Expanse,SYSMARKER,BVRQ-O,30,Blue
+
+
